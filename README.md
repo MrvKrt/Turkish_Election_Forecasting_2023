@@ -19,3 +19,9 @@ Permissions of this strong copyleft license are conditioned on making available 
  
 ![Graph, X](/fig.png)
 
+-------------------------------
+Sources:
+https://tr.wikipedia.org/wiki/Ülke_çapında_2023_Türkiye_genel_seçimleri_için_yapılan_anketler
+https://tr.wikipedia.org/wiki/2018_Türkiye_genel_seçimleri_için_yapılan_anketler
+
+
