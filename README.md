@@ -14,5 +14,5 @@
  
 ### **Updated: 10.11.2022**
  
-![Graph, X](/images/fig.png)
+![Graph, X](/fig.png)
 
